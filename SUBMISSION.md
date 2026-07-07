@@ -12,6 +12,14 @@ Ajaia Collaborative Docs
 
 ---
 
+## Live Deployment
+
+Deployment configuration is included.
+
+Due to the assignment time limit (4–6 hours), the production deployment could not be completed before submission.
+
+The application runs locally using the instructions in README.md.
+
 ## GitHub Repository
 
 https://github.com/Zuhaibkhank/Ajaia-Collab-Docs
