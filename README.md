@@ -137,3 +137,12 @@ GET /api/documents/shared/me
 # Author
 
 Zuhaib Khan
+
+
+
+
+
+# ScreenShot
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 012358" src="https://github.com/user-attachments/assets/ac54738d-41d4-4136-a8f2-f47206b0ee24" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-08 012439" src="https://github.com/user-attachments/assets/ffdf6956-406e-40ce-823c-f3a332e77ada" />
